@@ -1,13 +1,16 @@
 -----
 
 <div>
+<p align="center">
 <img align="center" alt="Header" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/header.png?raw=true"/>
+</p>
 </div>
 
 -----
 
 <div>
-    <table>
+    <table align="center">
+    <p align="center">
     <tr>
      <td align="center" colspan="11"></td>
     </tr> 
@@ -18,29 +21,29 @@
     </td>
     <td><a href="https://wa.me/5531992970871" target="_blank"><img src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/wpp.png?raw=true" width="50px" height="50px"/></a>
     </td>
-    <td><a href="https://www.instagram.com/jhonzhinhoow/" target="_blank"><img src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
+    <td><a href="https://www.instagram.com/joao.souzx_/" target="_blank"><img src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/insta.png?raw=true" width="50px" height="50px"/></a>
     </td>
-    <td><a href="https://www.linkedin.com/in/jhonzhinhoow/" target="_blank"><img src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
+    <td><a href="https://www.linkedin.com/in/joaovitorsouza712" target="_blank"><img src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/linkedin.png?raw=true" width="50px" height="50px"/></a>
     </td>
-    <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
+    <td><a href="https://discordapp.com/users/460509828033413132" target="_blank"><img src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/discord.png?raw=true" width="50px" height="50px"/></a>
     </td>
     </tr>
     <tr>
         <td align="center" colspan="11"></td>
        </tr> 
-       </table>
-
-    </div>
+    </p>   
+    </table>
+</div>
     <div align="justify">
     <i><b>Olá</b> :wave:, sou o <code>João Vitor</code>, tenho 20 anos, moro em BH e sou programador desde os 16 anos de idade. Atualmente sou <code>aluno</code> do curso Sistemas de Informação do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>.<br />
-    </div>
+</div>
     
-    ----- 
+----- 
     
-    <div>
+<div>
 
 ### <img height="20" alt="GIF" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
- 
+<p align="center"> 
 <a href="https://www.python.org/" target="_blank"><img width="40" height="40" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/python.png?raw=true"/></a>
 &nbsp; 
 <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="40" height="40" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/c.png?raw=true"/></a>
@@ -65,14 +68,15 @@
 &nbsp; 
 <a href="https://www.eclipse.org/downloads/" target="_blank"><img width="40" height="40" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/eclipse.png"/></a>
 &nbsp; 
-<code><a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="40" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/vs.png"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img width="40" height="40" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/vs.png"/></a>
+</p>
 </div>
 
 -----
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/dev.code?raw=true" width="340px" height="440px"/>
+<img align="right" alt="GIF" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/code.gif?raw=true" width="340px" height="440px"/>
 </div>
 
 ### <img height="20" alt="GIF" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
@@ -93,5 +97,5 @@
 -----
 
 <div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/footer-gray.gif?raw=true"/>
+<br /><img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/jhonzhinhoow/jhonzhinhoow/blob/main/img/footer-gray.gif?raw=true"/>
 </div>
