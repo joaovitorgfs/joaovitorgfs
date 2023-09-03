@@ -84,7 +84,7 @@
 <div align="justify">
 <p>
 - :green_book: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> de Sistemas de Informação.<br />
-- :orange_book: &nbsp; No <a href="https://cursoemvideo.com/" target="_blank">Curso em Vídeo</a>, sou <code>aluno</code>, das linguagens<br /> <a href="https://www.w3schools.com/html/" target="_blank">HTLM</a>, <a href="https://www.w3schools.com/css/" target="_blank">CSS</a> e <a href="https://www.php.net/" target="_blank">PHP</a>.<br />
+- :orange_book: &nbsp; No <a href="https://cursoemvideo.com/" target="_blank">Curso em Vídeo</a>, sou <code>aluno</code>, das linguagens<br /> <a href="https://www.w3schools.com/html/" target="_blank">HTML</a>, <a href="https://www.w3schools.com/css/" target="_blank">CSS</a> e <a href="https://www.php.net/" target="_blank">PHP</a>.<br />
 - :atom: &nbsp; Veja alguns códigos em linguagem C que fiz. <a href="https://github.com/joaovitorgfs/c-mais-mais target="_blank"">aqui</a>.<br />
 - :soccer: &nbsp; Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br" target="_blank">maior de minas</a>. :fox_face:<br />
 - :basketball: &nbsp; Meus hobbies são <a href="https://www.rockstargames.com/br/gta-v" target="_blank">GTA V</a> e <a href="https://ge.globo.com/futebol/brasileirao-serie-a/" target="_blank">futebol</a><br />
